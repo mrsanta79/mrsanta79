@@ -3,8 +3,7 @@
 ###
 
 <div align="center">
-  <!-- <img src="https://streak-stats.demolab.com?user=mrsanta79&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  /> -->
-  [![GitHub Streak](https://streak-stats.demolab.com?user=mrsanta79&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com?user=mrsanta79&theme=transparent&hide_border=true)](https://git.io/streak-stats" height="150" alt="streak graph"  />
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrsanta79&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  /> -->
 </div>
 
